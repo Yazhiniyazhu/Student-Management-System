@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🍲 Donate Food")
+st.title("🍲 Donut Food")
 
 food = st.text_input("Food Name")
 
